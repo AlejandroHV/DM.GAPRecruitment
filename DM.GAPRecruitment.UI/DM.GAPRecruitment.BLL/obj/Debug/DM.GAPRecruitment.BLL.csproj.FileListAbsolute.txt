@@ -1,0 +1,13 @@
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.BLL\bin\Debug\DM.GAPRecruitment.BLL.dll
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.BLL\bin\Debug\DM.GAPRecruitment.BLL.pdb
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.BLL\bin\Debug\DM.GAPRecruitment.DAL.dll
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.BLL\bin\Debug\DM.GAPRecruitment.Model.dll
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.BLL\bin\Debug\EntityFramework.dll
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.BLL\bin\Debug\DM.GAPRecruitment.DAL.pdb
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.BLL\bin\Debug\DM.GAPRecruitment.Model.pdb
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.BLL\bin\Debug\EntityFramework.xml
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.BLL\obj\Debug\DM.GAPRecruitment.BLL.csprojResolveAssemblyReference.cache
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.BLL\obj\Debug\DM.GAPRecruitment.BLL.dll
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.BLL\obj\Debug\DM.GAPRecruitment.BLL.pdb

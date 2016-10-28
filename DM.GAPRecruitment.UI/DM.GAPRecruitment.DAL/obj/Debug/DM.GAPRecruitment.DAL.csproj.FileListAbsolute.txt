@@ -1,0 +1,12 @@
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.DAL\bin\Debug\DM.GAPRecruitment.DAL.dll.config
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.DAL\bin\Debug\DM.GAPRecruitment.DAL.dll
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.DAL\bin\Debug\DM.GAPRecruitment.DAL.pdb
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.DAL\bin\Debug\DM.GAPRecruitment.Model.dll
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.DAL\bin\Debug\EntityFramework.dll
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.DAL\bin\Debug\DM.GAPRecruitment.Model.pdb
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.DAL\bin\Debug\EntityFramework.xml
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.DAL\obj\Debug\DM.GAPRecruitment.DAL.csprojResolveAssemblyReference.cache
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.DAL\obj\Debug\DM.GAPRecruitment.DAL.dll
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.DAL\obj\Debug\DM.GAPRecruitment.DAL.pdb

@@ -1,0 +1,5 @@
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.Model\bin\Debug\DM.GAPRecruitment.Model.dll.config
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.Model\bin\Debug\DM.GAPRecruitment.Model.dll
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.Model\bin\Debug\DM.GAPRecruitment.Model.pdb
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.Model\obj\Debug\DM.GAPRecruitment.Model.dll
+C:\Users\DeadMax\Documents\Visual Studio 2015\Projects\DM.GAPRecruitment.UI\DM.GAPRecruitment.Model\obj\Debug\DM.GAPRecruitment.Model.pdb

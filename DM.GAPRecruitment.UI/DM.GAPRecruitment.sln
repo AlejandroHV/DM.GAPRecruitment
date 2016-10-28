@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DM.GAPRecruitment.UI", "DM.GAPRecruitment.UI\DM.GAPRecruitment.UI.csproj", "{8E7EC54C-8FD8-4F4A-BD15-2106086BD605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DM.GAPRecruitment.Model", "DM.GAPRecruitment.Model\DM.GAPRecruitment.Model.csproj", "{377B61B0-1F0C-46AE-A453-C4E32E074AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DM.GAPRecruitment.BLL", "DM.GAPRecruitment.BLL\DM.GAPRecruitment.BLL.csproj", "{338E21CC-587F-4D8B-9688-550D502328D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DM.GAPRecruitment.DAL", "DM.GAPRecruitment.DAL\DM.GAPRecruitment.DAL.csproj", "{2A48B595-FA9C-4246-B2B8-4C5AFBEF7411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DM.GAPRecruitment.WebService", "DM.GAPRecruitment.WebService\DM.GAPRecruitment.WebService.csproj", "{F31D7E78-9AEF-4171-BBA7-7606A60BCC06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E7EC54C-8FD8-4F4A-BD15-2106086BD605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7EC54C-8FD8-4F4A-BD15-2106086BD605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7EC54C-8FD8-4F4A-BD15-2106086BD605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7EC54C-8FD8-4F4A-BD15-2106086BD605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377B61B0-1F0C-46AE-A453-C4E32E074AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377B61B0-1F0C-46AE-A453-C4E32E074AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377B61B0-1F0C-46AE-A453-C4E32E074AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377B61B0-1F0C-46AE-A453-C4E32E074AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{338E21CC-587F-4D8B-9688-550D502328D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338E21CC-587F-4D8B-9688-550D502328D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338E21CC-587F-4D8B-9688-550D502328D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338E21CC-587F-4D8B-9688-550D502328D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A48B595-FA9C-4246-B2B8-4C5AFBEF7411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A48B595-FA9C-4246-B2B8-4C5AFBEF7411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A48B595-FA9C-4246-B2B8-4C5AFBEF7411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A48B595-FA9C-4246-B2B8-4C5AFBEF7411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31D7E78-9AEF-4171-BBA7-7606A60BCC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31D7E78-9AEF-4171-BBA7-7606A60BCC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31D7E78-9AEF-4171-BBA7-7606A60BCC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31D7E78-9AEF-4171-BBA7-7606A60BCC06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
